@@ -1,0 +1,7 @@
+* Details
+Silently installs the latest version of Google Chrome enterprise
+
+* Usage
+#+begin_src shell
+./script
+#+end_src
